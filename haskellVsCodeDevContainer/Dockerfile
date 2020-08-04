@@ -1,0 +1,1 @@
+FROM hilariocunha/haskell-hie:8.8.3
